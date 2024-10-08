@@ -1,2 +1,1 @@
-# privacy-policy
-ZB Nation privacy policy
+#ZB Nation bot info
